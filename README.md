@@ -1,13 +1,14 @@
 # Human-Activity-Recognition
 
-## The Human Activity Recognition dataset was built from the recordings of 30 study participants performing activities of daily living (ADL).
+The Human Activity Recognition dataset was built from the recordings of 30 study participants performing activities of daily living (ADL).
 Each participants performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S Il) on the waist. Using its embedded accelerometer and gyroscope, 3-axial linear acceleration and
 3-axial angular velocity were captured at a constant rate of 50Hz.
 
 ## Task 1: Data Loading and Scaling
 1. Load the data.
 2. Scale the data using Z-mean standardization.
-Task 2: PCA
+
+## Task 2: PCA
 3. Run PCA using scaled data, leaving as many components as necessary to explain at least 95% of the variance of the original (scaled) data.
 4. Print the minimum number of PCs required to cover the 95% of the variance of the original (scaled) data.
 5. Plot the cumulative explained variance vs. the number of principal components.
