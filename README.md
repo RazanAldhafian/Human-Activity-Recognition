@@ -25,6 +25,9 @@ Each participants performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_D
 14. Compare the results of means, agglomerative clustering, and spectral clustering using ARI and silhouette coefficient.
 15. Use the elbow method to find the optimal number of clusters using K-means where K ranges from 1 to 10.
 
+## Data Used:
+HAR_labels.txt and HAR_data.txt (uploaded)
+
 ### Built With:
 
 <img width="40" alt="logo" src="https://user-images.githubusercontent.com/98522684/200248160-e3e79aa5-863e-4616-a11e-823866901875.png">
